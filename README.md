@@ -12,7 +12,7 @@ To view the website locally:
 
 Clone the repository:
 bash
-git clone https://github.com/yourusername/portfolio-website.git
+git clone link
 Navigate to the project directory:
 bash
 cd portfolio-website
